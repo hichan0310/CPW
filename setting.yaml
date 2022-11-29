@@ -1,0 +1,128 @@
+'00000':
+  command:
+  - PREPARE (cannot change)
+  execute: null
+'00001':
+  command:
+  - ctrl
+  execute: true
+'00010':
+  command:
+  - null
+  execute: false
+'00011':
+  command:
+  - null
+  execute: false
+'00100':
+  command:
+  - null
+  execute: false
+'00101':
+  command:
+  - null
+  execute: false
+'00110':
+  command:
+  - null
+  execute: false
+'00111':
+  command:
+  - null
+  execute: false
+'01000':
+  command:
+  - null
+  execute: false
+'01001':
+  command:
+  - null
+  execute: false
+'01010':
+  command:
+  - null
+  execute: false
+'01011':
+  command:
+  - null
+  execute: false
+'01100':
+  command:
+  - null
+  execute: false
+'01101':
+  command:
+  - null
+  execute: false
+'01110':
+  command:
+  - null
+  execute: false
+'01111':
+  command:
+  - null
+  execute: false
+'10000':
+  command:
+  - null
+  execute: false
+'10001':
+  command:
+  - null
+  execute: false
+'10010':
+  command:
+  - null
+  execute: false
+'10011':
+  command:
+  - null
+  execute: false
+'10100':
+  command:
+  - null
+  execute: false
+'10101':
+  command:
+  - null
+  execute: false
+'10110':
+  command:
+  - null
+  execute: false
+'10111':
+  command:
+  - null
+  execute: false
+'11000':
+  command:
+  - ZOOM IN / ZOOM OUT (cannot change)
+  execute: null
+'11001':
+  command:
+  - null
+  execute: false
+'11010':
+  command:
+  - null
+  execute: false
+'11011':
+  command:
+  - null
+  execute: false
+'11100':
+  command:
+  - MOUSE (cannot change)
+  execute: null
+'11101':
+  command:
+  - null
+  execute: false
+'11110':
+  command:
+  - null
+  execute: false
+'11111':
+  command:
+  - null
+  execute: false
